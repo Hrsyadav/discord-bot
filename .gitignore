@@ -1,0 +1,5 @@
+.dstore
+.env
+node_modules
+config.json
+output

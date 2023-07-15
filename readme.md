@@ -1,0 +1,1 @@
+# Discord bot that generate QR code from given input text.
